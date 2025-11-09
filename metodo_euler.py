@@ -1,14 +1,9 @@
-# metodo_euler.py
 # Programa para aproximar la disminución de un contaminante en un cuerpo de agua
-# usando el método numérico de Euler para la ecuación:
+# Usando el método numérico de Euler para la ecuación:
 #       dC/dt = -k * C
 #
 # Este código permite usar tiempos totales y tamaños de paso arbitrarios.
-# Puede ejecutarse desde GitHub, terminal o cualquier IDE.
-#
-# Ejecución:
-#   python metodo_euler.py
-# Autor: solis García Luis Manuel 
+
 
 def main():
     try:
